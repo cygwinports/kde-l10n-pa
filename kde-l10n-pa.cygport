@@ -2,7 +2,7 @@ inherit kde4
 
 NAME="kde-l10n-pa"
 VERSION=17.08.3
-RELEASE=1
+RELEASE=2
 CATEGORY="KDE"
 SUMMARY="KDE Punjabi translation files"
 DESCRIPTION="KDE Punjabi translation files"
